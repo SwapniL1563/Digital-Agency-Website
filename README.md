@@ -1,1 +1,1 @@
-A Digital Design Agency developed using React & Tailwind Css.
+A Digital Design Agency Website developed using React & Tailwind Css.
